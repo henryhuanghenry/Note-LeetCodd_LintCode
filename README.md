@@ -1,4 +1,4 @@
-# Note-LeetCodd_LintCode
+# Note-LeetCode_LintCode
 
 力扣和领扣的刷题笔记和代码。
 
